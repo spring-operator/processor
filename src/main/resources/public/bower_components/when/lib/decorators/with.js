@@ -16,7 +16,7 @@ define(function() {
 		 * promise chain.
 		 *
 		 * WARNING: Promises returned from `with`/`withThis` are NOT Promises/A+
-		 * compliant, specifically violating 2.2.5 (http://promisesaplus.com/#point-41)
+		 * compliant, specifically violating 2.2.5 (https://promisesaplus.com/#point-41)
 		 *
 		 * @param {object} receiver `this` value for all handlers attached to
 		 *  the returned promise.

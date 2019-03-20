@@ -1,4 +1,4 @@
-// Method of allowing calculated values for length units, i.e. width: calc(100%-3em) http://caniuse.com/#search=calc
+// Method of allowing calculated values for length units, i.e. width: calc(100%-3em) https://caniuse.com/#search=calc
 // By @calvein
 
 Modernizr.addTest('csscalc', function() {

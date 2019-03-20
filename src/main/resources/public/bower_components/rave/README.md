@@ -14,8 +14,8 @@ transpilers just to get to a runnable app.  Instead, go from zero to "hello
 world" in 30 seconds without touching a configuration file.  In the next 30
 seconds, easily add capabilities and frameworks to your application simply
 by installing *Rave Extension* and *Rave Integration* packages from
-[npm](http://www.npmjs.org/search?q=rave-extension) or
-[Bower](http://bower.io/search/?q=rave-extension). Finally, install additional
+[npm](https://www.npmjs.org/search?q=rave-extension) or
+[Bower](https://bower.io/search/?q=rave-extension). Finally, install additional
 *Rave Extension* packages to apply your favorite build, deploy, and testing
 patterns.
 
@@ -56,7 +56,7 @@ Check the [docs/ folder](./docs/) for more information.
 ## How does it work?
 
 Rave uses the metadata *you're already aggregating* when you use JavaScript
-package managers such as [npm](http://npmjs.org) and [Bower](http://bower.io).
+package managers such as [npm](https://npmjs.org) and [Bower](https://bower.io).
 This moves the configuration burden from you, the application developer,
 to package authors.
 
@@ -81,7 +81,7 @@ Rave Extensions do many things:
   metadata or glue code
 
 Rave extensions are easy to create and easy to find on npm and Bower by
-searching for "[rave-extension](http://www.npmjs.org/search?q=rave-extension)".
+searching for "[rave-extension](https://www.npmjs.org/search?q=rave-extension)".
 
 
 ## About

@@ -9,7 +9,7 @@ ko.computedContext = ko.dependencyDetection = (function () {
     // in duplicate IDs. But in JavaScript, the largest exact integral value is 2^53
     // or 9,007,199,254,740,992. If you created 1,000,000 IDs per second, it would
     // take over 285 years to reach that number.
-    // Reference http://blog.vjeux.com/2010/javascript/javascript-max_int-number-limits.html
+    // Reference https://blog.vjeux.com/2010/javascript/javascript-max_int-number-limits.html
     function getId() {
         return ++lastId;
     }

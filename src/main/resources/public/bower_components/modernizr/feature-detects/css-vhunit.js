@@ -1,5 +1,5 @@
 // https://github.com/Modernizr/Modernizr/issues/572
-// Similar to http://jsfiddle.net/FWeinb/etnYC/
+// Similar to https://jsfiddle.net/FWeinb/etnYC/
 Modernizr.addTest('cssvhunit', function() {
     var bool;
     Modernizr.testStyles("#modernizr { height: 50vh; }", function(elem, rule) {   

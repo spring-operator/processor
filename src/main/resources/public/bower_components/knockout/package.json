@@ -1,7 +1,7 @@
 {
   "name": "knockout",
   "description": "Knockout makes it easier to create rich, responsive UIs with JavaScript",
-  "homepage": "http://knockoutjs.com/",
+  "homepage": "https://knockoutjs.com/",
   "version": "3.2.0",
   "license": "MIT",
   "author": "The Knockout.js team",
@@ -29,7 +29,7 @@
     ]
   },
   "licenses": [
-    { "type": "MIT", "url": "http://www.opensource.org/licenses/mit-license.php" }
+    { "type": "MIT", "url": "https://www.opensource.org/licenses/mit-license.php" }
   ],
   "devDependencies": {
     "grunt": "~0.4.1",

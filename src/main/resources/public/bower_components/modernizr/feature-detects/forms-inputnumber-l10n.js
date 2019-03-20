@@ -2,7 +2,7 @@
 // // Detects whether input type="number" is capable of receiving and
 // // displaying localized numbers, e.g. with comma separator
 // // https://bugs.webkit.org/show_bug.cgi?id=42484
-// // Based on http://trac.webkit.org/browser/trunk/LayoutTests/fast/forms/script-tests/input-number-keyoperation.js?rev=80096#L9
+// // Based on https://trac.webkit.org/browser/trunk/LayoutTests/fast/forms/script-tests/input-number-keyoperation.js?rev=80096#L9
 // // By Peter Janes
 
 Modernizr.addTest('localizedNumber', function() {

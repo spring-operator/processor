@@ -7,6 +7,6 @@
 //   developer.mozilla.org/en/CSS/mask
 //   developer.mozilla.org/En/Applying_SVG_effects_to_HTML_content
 
-// Can combine with clippaths for awesomeness: http://generic.cx/for/webkit/test.html
+// Can combine with clippaths for awesomeness: https://generic.cx/for/webkit/test.html
 
 Modernizr.addTest('cssmask', Modernizr.testAllProps('maskRepeat'));

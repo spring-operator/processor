@@ -1,4 +1,4 @@
-Modernizr [![Build Status](https://secure.travis-ci.org/Modernizr/Modernizr.png?branch=master)](http://travis-ci.org/Modernizr/Modernizr)
+Modernizr [![Build Status](https://secure.travis-ci.org/Modernizr/Modernizr.png?branch=master)](https://travis-ci.org/Modernizr/Modernizr)
 =========
 
 ### a JavaScript library allowing you to use CSS3 & HTML5 while maintaining control over unsupported browsers 
@@ -10,19 +10,19 @@ as properties on a global `Modernizr` object, and as classes on the
 your pages with a granular level of control over the experience.
 
 Modernizr has an optional (*not included*) conditional resource loader
-called `Modernizr.load()`, based on Yepnope.js ([yepnopejs.com](http://yepnopejs.com/)).
+called `Modernizr.load()`, based on Yepnope.js ([yepnopejs.com](https://yepnopejs.com/)).
 To get a build that includes `Modernizr.load()`, as well as choosing
-which tests to include, go to [www.modernizr.com/download/](http://www.modernizr.com/download/)
+which tests to include, go to [www.modernizr.com/download/](https://www.modernizr.com/download/)
 
-[Full documentation on modernizr.com/docs/](http://www.modernizr.com/docs/)
+[Full documentation on modernizr.com/docs/](https://www.modernizr.com/docs/)
 
 * * *
 
-Modernizr is dual-licensed under the [BSD and MIT licenses](http://www.modernizr.com/license/).
+Modernizr is dual-licensed under the [BSD and MIT licenses](https://www.modernizr.com/license/).
 
-[modernizr.com](http://www.modernizr.com/)
+[modernizr.com](https://www.modernizr.com/)
 
 
 #### Try it out: 
 
-Run the test suite: [http://modernizr.github.com/Modernizr/test/](http://modernizr.github.com/Modernizr/test/)
+Run the test suite: [https://modernizr.github.com/Modernizr/test/](https://modernizr.github.com/Modernizr/test/)

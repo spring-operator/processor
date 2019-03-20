@@ -2,7 +2,7 @@
 // by alanhogan
 
 // https://github.com/Modernizr/Modernizr/issues/198
-// http://css-tricks.com/596-run-in/
+// https://css-tricks.com/596-run-in/
 
 
 

@@ -1,4 +1,4 @@
-// Tests for the ability to use Web Intents (http://webintents.org).
+// Tests for the ability to use Web Intents (https://webintents.org).
 // By Eric Bidelman
 
 Modernizr.addTest('webintents', function() {

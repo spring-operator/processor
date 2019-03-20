@@ -1,5 +1,5 @@
 // CSS Regions
-// http://www.w3.org/TR/css3-regions/
+// https://www.w3.org/TR/css3-regions/
 // By: Mihai Balan
 
 // We start with a CSS parser test then we check page geometry to see if it's affected by regions

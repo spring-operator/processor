@@ -1,5 +1,5 @@
 // Animated PNG
-// http://en.wikipedia.org/wiki/APNG
+// https://en.wikipedia.org/wiki/APNG
 // By Addy Osmani
 (function () {
 

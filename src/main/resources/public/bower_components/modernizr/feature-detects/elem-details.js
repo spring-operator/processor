@@ -1,4 +1,4 @@
-// By @mathias, based on http://mths.be/axh
+// By @mathias, based on https://mths.be/axh
 Modernizr.addTest('details', function() {
     var doc = document,
         el = doc.createElement('details'),

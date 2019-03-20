@@ -1,5 +1,5 @@
 // https://github.com/Modernizr/Modernizr/issues/572
-// http://jsfiddle.net/glsee/JDsWQ/4/
+// https://jsfiddle.net/glsee/JDsWQ/4/
 Modernizr.addTest('cssvmaxunit', function(){
     var bool;
     Modernizr.testStyles("#modernizr { width: 50vmax; }", function(elem, rule) {

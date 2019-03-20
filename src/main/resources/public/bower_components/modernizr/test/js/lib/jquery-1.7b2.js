@@ -1,13 +1,13 @@
 /*!
  * jQuery JavaScript Library v1.7b2
- * http://jquery.com/
+ * https://jquery.com/
  *
  * Copyright 2011, John Resig
  * Dual licensed under the MIT or GPL Version 2 licenses.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
  * Includes Sizzle.js
- * http://sizzlejs.com/
+ * https://sizzlejs.com/
  * Copyright 2011, The Dojo Foundation
  * Released under the MIT, BSD, and GPL Licenses.
  *
@@ -568,7 +568,7 @@ jQuery.extend({
 		}
 
 		// Make sure the incoming data is actual JSON
-		// Logic borrowed from http://json.org/json2.js
+		// Logic borrowed from https://json.org/json2.js
 		if ( rvalidchars.test( data.replace( rvalidescape, "@" )
 			.replace( rvalidtokens, "]" )
 			.replace( rvalidbraces, "")) ) {
@@ -604,7 +604,7 @@ jQuery.extend({
 
 	// Evaluates a script in a global context
 	// Workarounds based on findings by Jim Driscoll
-	// http://weblogs.java.net/blog/driscoll/archive/2009/09/08/eval-javascript-global-context
+	// https://weblogs.java.net/blog/driscoll/archive/2009/09/08/eval-javascript-global-context
 	globalEval: function( data ) {
 		if ( data && rnotwhite.test( data ) ) {
 			// We use execScript on Internet Explorer
@@ -858,7 +858,7 @@ jQuery.extend({
 	},
 
 	// Use of jQuery.browser is frowned upon.
-	// More details: http://docs.jquery.com/Utilities/jQuery.browser
+	// More details: https://docs.jquery.com/Utilities/jQuery.browser
 	uaMatch: function( ua ) {
 		ua = ua.toLowerCase();
 
@@ -2137,7 +2137,7 @@ jQuery.fn.extend({
 		});
 	},
 	// Based off of the plugin by Clint Helfers, with permission.
-	// http://blindsignals.com/index.php/2009/07/jquery-delay/
+	// http://blindsignals.com
 	delay: function( time, type ) {
 		time = jQuery.fx ? jQuery.fx.speeds[ time ] || time : time;
 		type = type || "fx";
@@ -2652,7 +2652,7 @@ jQuery.extend({
 		tabIndex: {
 			get: function( elem ) {
 				// elem.tabIndex doesn't always return the correct value when it hasn't been explicitly set
-				// http://fluidproject.org/blog/2008/01/09/getting-setting-and-removing-tabindex-values-with-javascript/
+				// https://fluidproject.org/blog/2008/01/09/getting-setting-and-removing-tabindex-values-with-javascript/
 				var attributeNode = elem.getAttributeNode("tabindex");
 
 				return attributeNode && attributeNode.specified ?
@@ -3259,7 +3259,7 @@ jQuery.event = {
 					hit = selMatch[ sel ];
 
 					if ( handleObj.isPositional ) {
-						// Since .is() does not work for positionals; see http://jsfiddle.net/eJ4yd/3/
+						// Since .is() does not work for positionals; see https://jsfiddle.net/eJ4yd/3/
 						hit = ( hit || (selMatch[ sel ] = jQuery( sel )) ).index( cur ) >= 0;
 					} else if ( hit === undefined ) {
 						hit = selMatch[ sel ] = ( handleObj.quick ? quickIs( cur, handleObj.quick ) : jQuery( cur ).is( sel ) );
@@ -3520,7 +3520,7 @@ function returnTrue() {
 }
 
 // jQuery.Event is based on DOM3 Events as specified by the ECMAScript Language Binding
-// http://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331/ecma-script-binding.html
+// https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331/ecma-script-binding.html
 jQuery.Event.prototype = {
 	preventDefault: function() {
 		this.isDefaultPrevented = returnTrue;
@@ -3898,7 +3898,7 @@ jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblcl
  * Sizzle CSS Selector Engine
  *  Copyright 2011, The Dojo Foundation
  *  Released under the MIT, BSD, and GPL Licenses.
- *  More information: http://sizzlejs.com/
+ *  More information: https://sizzlejs.com/
  */
 (function(){
 
@@ -5566,7 +5566,7 @@ jQuery.each({
 			// The variable 'args' was introduced in
 			// https://github.com/jquery/jquery/commit/52a0238
 			// to work around a bug in Chrome 10 (Dev) and should be removed when the bug is fixed.
-			// http://code.google.com/p/v8/issues/detail?id=1050
+			// https://code.google.com/p/v8/issues/detail?id=1050
 			args = slice.call(arguments);
 
 		if ( !runtil.test( name ) ) {
@@ -8139,7 +8139,7 @@ if ( jQuery.support.ajax ) {
 
 						// Firefox throws exceptions when accessing properties
 						// of an xhr when a network error occured
-						// http://helpful.knobs-dials.com/index.php/Component_returned_failure_code:_0x80040111_(NS_ERROR_NOT_AVAILABLE)
+						// https://helpful.knobs-dials.com/index.php/Component_returned_failure_code:_0x80040111_(NS_ERROR_NOT_AVAILABLE)
 						try {
 
 							// Was never called and is aborted or complete

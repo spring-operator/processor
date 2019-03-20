@@ -1,5 +1,5 @@
 // https://github.com/Modernizr/Modernizr/issues/572
-// http://jsfiddle.net/glsee/JRmdq/8/
+// https://jsfiddle.net/glsee/JRmdq/8/
 Modernizr.addTest('cssvminunit', function(){
     var bool;
     Modernizr.testStyles("#modernizr { width: 50vmin; }", function(elem, rule) {

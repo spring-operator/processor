@@ -19,7 +19,7 @@
 	"licenses": [
 		{
 			"type": "MIT",
-			"url": "http://www.opensource.org/licenses/mit-license.php"
+			"url": "https://www.opensource.org/licenses/mit-license.php"
 		}
 	],
 	"repository": {
@@ -30,7 +30,7 @@
 	"maintainers": [
 		{
 			"name": "Brian Cavalier",
-			"web": "http://hovercraftstudios.com"
+			"web": "http://www.hovercraftstudios.com/"
 		},
 		{
 			"name": "John Hann",
@@ -40,7 +40,7 @@
 	"contributors": [
 		{
 			"name": "Brian Cavalier",
-			"web": "http://hovercraftstudios.com"
+			"web": "http://www.hovercraftstudios.com/"
 		},
 		{
 			"name": "John Hann",

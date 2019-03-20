@@ -3,7 +3,7 @@
 	
 	Check adapted from https://github.com/brandonaaron/jquery-cssHooks/blob/master/bgpos.js
 	
-	Test: http://jsfiddle.net/allanlei/R8AYS/
+	Test: https://jsfiddle.net/allanlei/R8AYS/
 */
 Modernizr.addTest('bgpositionxy', function() {
     return Modernizr.testStyles('#modernizr {background-position: 3px 5px;}', function(elem) {

@@ -1,8 +1,8 @@
 /*
     https://developer.mozilla.org/en/CSS/background-position
-    http://www.w3.org/TR/css3-background/#background-position
+    https://www.w3.org/TR/css3-background/#background-position
 
-    Example: http://jsfiddle.net/Blink/bBXvt/
+    Example: https://jsfiddle.net/Blink/bBXvt/
 */
 
 (function() {

@@ -1,5 +1,5 @@
 // canvas.toDataURL type support
-// http://www.w3.org/TR/html5/the-canvas-element.html#dom-canvas-todataurl
+// https://www.w3.org/TR/html5/the-canvas-element.html#dom-canvas-todataurl
 
 // This test is asynchronous. Watch out.
 

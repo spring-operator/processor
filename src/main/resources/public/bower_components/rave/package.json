@@ -15,11 +15,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/RaveJS/rave.git"
+    "url": "https://github.com/RaveJS/rave.git"
   },
   "authors": [
     "John Hann (http://unscriptable.com)",
-    "Brian Cavalier (http://hovercraftstudios.com)"
+    "Brian Cavalier (http://www.hovercraftstudios.com/)"
   ],
   "contributors": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "Brian Cavalier",
-      "web": "http://hovercraftstudios.com"
+      "web": "http://www.hovercraftstudios.com/"
     }
   ],
   "license": "MIT",

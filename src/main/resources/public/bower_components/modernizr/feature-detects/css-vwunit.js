@@ -1,5 +1,5 @@
 // https://github.com/Modernizr/Modernizr/issues/572
-// http://jsfiddle.net/FWeinb/etnYC/
+// https://jsfiddle.net/FWeinb/etnYC/
 Modernizr.addTest('cssvwunit', function(){
     var bool;
     Modernizr.testStyles("#modernizr { width: 50vw; }", function(elem, rule) {

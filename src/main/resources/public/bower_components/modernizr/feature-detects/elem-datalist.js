@@ -5,8 +5,8 @@
 
 // Helpful links while you're here, though..
 
-// http://css-tricks.com/15346-relevant-dropdowns-polyfill-for-datalist/
-// http://miketaylr.com/test/datalist.html
-// http://miketaylr.com/code/datalist.html
+// https://css-tricks.com/15346-relevant-dropdowns-polyfill-for-datalist/
+// https://miketaylr.com/test/datalist.html
+// https://miketaylr.com/code/datalist.html
 
 Modernizr.addTest('datalistelem', Modernizr.input.list );

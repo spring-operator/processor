@@ -1,7 +1,7 @@
 // developer.mozilla.org/en/CSS/background-repeat
 
 // test page: jsbin.com/uzesun/
-// http://jsfiddle.net/ryanseddon/yMLTQ/6/    
+// https://jsfiddle.net/ryanseddon/yMLTQ/6/    
 
 (function(){
 

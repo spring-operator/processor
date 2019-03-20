@@ -1,5 +1,5 @@
 // Requires a Modernizr build with `canvastext` included
-// http://www.modernizr.com/download/#-canvas-canvastext
+// https://www.modernizr.com/download/#-canvas-canvastext
 Modernizr.addTest('emoji', function() {
   if (!Modernizr.canvastext) return false;
   var node = document.createElement('canvas'),

@@ -3,7 +3,7 @@
 var myscript = document.createElement('script'),
     ref = document.getElementsByTagName('script')[0];
 
-myscript.src = 'http://caniuse.com/jsonp.php?callback=caniusecb';
+myscript.src = 'https://caniuse.com/jsonp.php?callback=caniusecb';
 
 setTimeout(function(){
   ref.parentNode.insertBefore(myscript, ref);
